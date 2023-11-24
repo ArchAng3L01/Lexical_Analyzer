@@ -1,0 +1,9 @@
+INTEGER c
+PROGRAM A
+INTEGER a, b
+a = 5
+b = 6
+b = (b+a)
+REAL r
+r = 2.5675464 + a
+END A
